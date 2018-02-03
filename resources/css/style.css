@@ -1,0 +1,40 @@
+#conten_wrapper {
+  background: black;
+  text-align: center;
+}
+
+#conten_wrapper a {
+  color: aquamarine;
+  font-size: 16px;
+}
+
+#conten_wrapper h1,
+#conten_wrapper .text_content h2,
+p,
+#footer span  {
+  font-family: verdana;
+  font-size: 21px;
+}
+
+#conten_wrapper h1 {
+  font-weight: normal;
+  font-size: 50px;
+  color: white;
+}
+
+#conten_wrapper #text_content h2 {
+  font-weight: 300;
+  font-size: 42px;
+  color: white;
+}
+
+#footer {
+  text-align: right;
+  padding-top: 15px;
+  padding-bottom: 15px;
+  padding-right: 10px;
+}
+
+.c_gray {
+  color: gray;
+}
